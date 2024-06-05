@@ -1,9 +1,9 @@
-#!/usr/bin/python
+# #!/usr/bin/python
 
 import os
 
 
-DIR_DATA = "/glade/scratch/lgchen/data/ERA5forSODA/original"
+DIR_DATA = "/glade/u/home/lgchen/lgchen_scratch_derecho/data/ERA5forSODA/original"
 
 START_YEAR = 2023
 END_YEAR   = 2023

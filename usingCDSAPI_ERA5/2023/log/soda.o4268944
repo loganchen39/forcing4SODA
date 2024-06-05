@@ -1,0 +1,5 @@
+Entering .bash_profile ...
+Traceback (most recent call last):
+  File "/glade/work/lgchen/project/SODA3/code_forcing4SODA/forcing4SODA_repo/usingCDSAPI_ERA5/2023/./02.ERA5_addLastHourOfYear_Accu.py", line 7, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
